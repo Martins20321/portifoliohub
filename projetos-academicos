@@ -1,1 +1,14 @@
-dd
+def calculadora():
+  print(1. soma\n2. Subtracao")
+opcao = input("Escolha uma operacao:")
+num1 = float(input("Digite o primeiro numero: "))
+num2 = float(input("Digite o segundo numero: "))
+
+if opca0 == "1":
+  print(f"Resultado: {num1 + num2}")
+elif opcao == "2":
+  print(f"REsultado: {num1 - num2}")
+else:
+  print("Opcao invalida")
+
+calculadora()
