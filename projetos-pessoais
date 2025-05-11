@@ -1,1 +1,11 @@
 
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Meu Primeiro Site</title>
+</head>
+<body>
+  <h1>Bem-vindo ao meu portfólio!</h1>
+  <p>Este é um projeto pessoal criado durante o bootcamp.</p>
+</body>
+</html>
